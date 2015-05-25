@@ -15,7 +15,7 @@ $ npm install --save is-firefox
 ```js
 var isFirefox = require('is-firefox');
 
-isFirefox();
+console.log(isFirefox);
 //=> false
 ```
 
